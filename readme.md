@@ -100,7 +100,7 @@ The output includes:
 
 </details>
 
-### HTTP API (Optional)
+### HTTP API (Optional Advanced Feature)
 
 Serve your knowledge graph for automatic coding integrations or dashboards:
 
