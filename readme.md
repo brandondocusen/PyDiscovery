@@ -33,7 +33,7 @@ The result: a token-efficient `knowledge_graph.json` file, perfect for enhancing
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/pydiscovery.git
+git clone https://github.com/brandondocusen/PyDiscovery.git
 cd pydiscovery
 
 # Run analysis on any Python project
