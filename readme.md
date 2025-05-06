@@ -136,7 +136,7 @@ PyDiscovery fits seamlessly into your development process:
 
 ## 🤝 Contributing
 
-We maintain a strict zero-dependency philosophy:
+I maintain a strict zero-dependency philosophy:
 
 1. Fork and create a feature branch
 2. Add concise tests for new analyzers
