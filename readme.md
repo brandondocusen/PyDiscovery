@@ -6,9 +6,7 @@
 [![Dependencies: None](https://img.shields.io/badge/dependencies-none-green.svg)](#features-at-a-glance)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=PyDiscovery+Visualization" alt="PyDiscovery Graph Visualization" width="600px" />
-</div>
+
 
 ## 📖 Overview
 
